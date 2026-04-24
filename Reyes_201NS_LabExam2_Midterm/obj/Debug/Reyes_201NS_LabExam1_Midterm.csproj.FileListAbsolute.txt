@@ -1,0 +1,20 @@
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\bin\Debug\Reyes_201NS_LabExam1_Midterm.exe.config
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\bin\Debug\Reyes_201NS_LabExam1_Midterm.exe
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\bin\Debug\Reyes_201NS_LabExam1_Midterm.pdb
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.csproj.AssemblyReference.cache
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.Properties.Resources.resources
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.csproj.GenerateResource.cache
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.csproj.CoreCompileInputs.cache
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.exe
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.pdb
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.MainForm.resources
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\bin\Debug\Reyes_201NS_LabExam1_Midterm.exe.config
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\bin\Debug\Reyes_201NS_LabExam1_Midterm.exe
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\bin\Debug\Reyes_201NS_LabExam1_Midterm.pdb
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.csproj.AssemblyReference.cache
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.MainForm.resources
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.Properties.Resources.resources
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.csproj.GenerateResource.cache
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.csproj.CoreCompileInputs.cache
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.exe
+E:\Vs Code\VStudio\Reyes_201NS_LabExam1_Midterm - Copy\Reyes_201NS_LabExam1_Midterm\obj\Debug\Reyes_201NS_LabExam1_Midterm.pdb
